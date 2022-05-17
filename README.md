@@ -59,8 +59,8 @@ dst = cv2.Laplacian(image1,cv2.CV_16S,ksize=3)
 plt.imshow(dst,cmap='gray')
 abs_dst = cv2.convertScaleAbs(dst)
 plt.imshow(abs_dst,cmap='gray')
-# CANNY EDGE DETECTOR
 
+# CANNY EDGE DETECTOR
 edges = cv2.Canny(image1,100,200)
 plt.imshow(image1,cmap = 'gray')
 plt.title('Original Image'), plt.xticks([]), plt.yticks([])
