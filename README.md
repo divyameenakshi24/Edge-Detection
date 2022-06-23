@@ -74,6 +74,16 @@ plt.imshow(edges,cmap = 'gray')
 plt.title('Edge Image'), plt.xticks([]), plt.yticks([])
 plt.show()
 ```
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## OUTPUT:
 ### SOBEL EDGE DETECTOR
 
