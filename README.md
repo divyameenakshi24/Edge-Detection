@@ -29,6 +29,15 @@ canny=cv2.Canny(gray,120,150)
 ### Step 3:
 Display all the images with their respective edge detected images.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## PROGRAM:
 
 ### Developed by: A.Divya Meenakshi
